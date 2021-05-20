@@ -4,5 +4,5 @@ woshenmeyebuzhidao
 int main()
 {
 printf("我什么也不知道！"/n)
-return o;
+return 0;
 }
